@@ -1,7 +1,7 @@
 ##1
 create database ecommerce;
 ##2
-#importing data
+##importing data
 ##3 structure of table
 use ecommerce;
 describe users_data;
